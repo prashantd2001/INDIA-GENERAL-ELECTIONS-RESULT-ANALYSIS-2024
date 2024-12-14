@@ -116,5 +116,5 @@ Explore the complete project, including datasets and SQL queries, on GitHub:
 
 ## Contact
 Feel free to connect with me on LinkedIn or share your feedback and suggestions! I look forward to hearing your thoughts. 🙌
-
+LinkedIn Profile
 
